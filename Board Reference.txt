@@ -17,3 +17,11 @@ https://forest71.tistory.com/177?category=673494
 firebase read data
 https://codeday.me/ko/qa/20190415/335593.html
 
+chatting 
+https://corikachu.github.io/articles/android/firebase/android-firebase-realtime-chatting-app
+https://github.com/pdabest/Hellven/blob/master/app/src/main/java/com/hellven/net/chatting.java
+https://dev-imaec.tistory.com/27
+
+icon
+https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/
+https://www.flaticon.com/free-icon/transfer_1870380#term=people%20trade&page=1&position=19
