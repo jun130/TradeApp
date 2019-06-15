@@ -1,0 +1,19 @@
+firebase database
+https://firebase.google.com/docs/database/android/read-and-write?hl=ko
+https://firebase.google.com/docs/database/android/lists-of-data?hl=ko
+https://firebase.google.com/docs/database/android/retrieve-data?hl=ko#sorting_and_filtering_data
+
+recyclerview
+https://mingyeongun-dev.tistory.com/m/9?category=753281
+https://hamzzibari.tistory.com/66?category=769472
+https://webnautes.tistory.com/1300
+
+detail recyclerview
+https://stackoverflow.com/questions/45411004/how-to-open-a-details-activity-when-an-item-is-clicked-in-firebase-recyclerview
+
+example firebaseboard
+https://forest71.tistory.com/177?category=673494
+
+firebase read data
+https://codeday.me/ko/qa/20190415/335593.html
+
