@@ -1,5 +1,7 @@
 # TradeApp
 
+Trading application between people
+
 <h3>function</h3>
 
 1. Sing Up, Login, Logout
