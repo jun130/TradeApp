@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="카테고리">
+        <item>카메라/가전</item>
+        <item>가구</item>
+        <item>컴퓨터</item>
+        <item>의류/액세서리</item>
+        <item>스포츠</item>
+        <item>게임/완구</item>
+        <item>음향/악기</item>
+        <item>도서</item>
+        <item>기타</item>
+    </string-array>
+</resources>

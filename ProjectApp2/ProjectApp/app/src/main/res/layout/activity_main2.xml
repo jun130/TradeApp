@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.myapplication.MainActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+    <EditText
+        android:id="@+id/idinput"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="내 id 입력"
+        />
+
+    <EditText
+        android:id="@+id/idinput01"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="내 이름 입력"
+        />
+
+    <EditText
+        android:id="@+id/idinput2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="상대방 id 입력"
+        />
+
+    <EditText
+        android:id="@+id/idinput02"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="상대방 이름 입력"
+        />
+
+    <Button
+        android:id="@+id/listbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅리스트" />
+
+    <Button
+        android:id="@+id/chatbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅하기" />
+
+    </LinearLayout>
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/navigation" />
+
+
+
+</android.support.constraint.ConstraintLayout>

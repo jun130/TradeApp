@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SearchBoardActivity"
+            android:label="검색결과"></activity>
+        <activity android:name=".CateBoardActivity"
+            android:label="게시물"/>
+        <activity android:name=".CategoryActivity"
+            android:label="카테고리"/>
+        <activity
+            android:name=".LoginActivity"
+            android:label="중고거래어플">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".DetailActivity"
+            android:label="게시물"/>
+        <activity android:name=".PostActivity"
+            android:label="글쓰기"/>
+        <activity android:name=".ProfileActivity"
+            android:label="내정보"/>
+        <activity android:name=".FindActivity"
+            android:label="패스워드 찾기"/>
+        <activity android:name=".RegisterActivity"
+            android:label="회원가입"/>
+        <activity android:name=".BoardActivity"
+            android:label="게시판"/>
+        <activity
+            android:name=".ChatActivity"
+            android:label="채팅"
+            android:theme="@style/chatTheme" />
+        <activity
+            android:name=".ListActivity"
+            android:label="채팅"
+            android:theme="@style/chatTheme" />
+    </application>
+
+</manifest>
