@@ -2,7 +2,7 @@
 
 Trading application with people
 
-<h3>function</h3>
+<h3>Function</h3>
 
 1. Sing Up, Login, Logout
 2. Write and upload item image to board
