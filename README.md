@@ -1,6 +1,6 @@
 # TradeApp
 
-<h4>function</h4>
+<h3>function</h3>
 
 1. Sing Up, Login, Logout
 2. Write and upload item image to board
@@ -9,7 +9,8 @@
 5. Chatting
 
 
-<h4>Developement Environment</h4>
+<h3>Development Environment</h3>
+
 - OS: Windows 10
 - IDE: Android Studio
 - DB: Firebase
