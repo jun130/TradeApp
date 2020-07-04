@@ -1,6 +1,6 @@
 # TradeApp
 
-Trading application between people
+Trading application with people
 
 <h3>function</h3>
 
