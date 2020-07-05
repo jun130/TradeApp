@@ -19,7 +19,6 @@ Trading application with people
 - Language: Java
 
 #
-#
 
 <div>
 <img src="https://user-images.githubusercontent.com/38622982/86523685-a7f83200-beaa-11ea-97a2-67f511601f8b.png" width="20%"></img>
