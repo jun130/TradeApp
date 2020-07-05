@@ -17,3 +17,5 @@ Trading application with people
 - IDE: Android Studio
 - DB: Firebase
 - Language: Java
+
+<img src="https://user-images.githubusercontent.com/38622982/86523623-f6f19780-bea9-11ea-9a02-d208ddbf274d.png" width="90%"></img>
